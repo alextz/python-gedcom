@@ -34,10 +34,12 @@ gedcom = Gedcom(file_path)
 
 ## History
 
-This module was originally based on a GEDCOM parser written by 
+This module was originally based on a GEDCOM parser written by
 Daniel Zappala at Brigham Young University (copyright (C) 2005) which
 was licensed under the GPL v2 and then continued by
 [Mad Price Ball](https://github.com/madprime) in 2012.
+
+This particular fork was derived from the madprime code in the middle of 2017.
 
 ## License
 
